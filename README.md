@@ -1,6 +1,6 @@
 # Spotify Prediction Task
 
-Abaixo estão as explicações das features. As features que tem interpretação direta não foram descritas. As descrições das features foram retiradas de https://developer.spotify.com/documentation/web-api/reference/#/.
+Abaixo estÃ£o as explicaÃ§Ãµes das features. As features que tem interpretaÃ§Ã£o direta nÃ£o foram descritas. As descriÃ§Ãµes das features foram retiradas de https://developer.spotify.com/documentation/web-api/reference/#/.
 
 -	Popularity: 
 	
@@ -12,7 +12,7 @@ Abaixo estão as explicações das features. As features que tem interpretação dire
 
 	A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.
 
-	>= 0 <= 1
+	\>= 0 <= 1
 
 -	Danceability:
 
